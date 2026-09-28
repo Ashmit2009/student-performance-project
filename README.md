@@ -36,7 +36,7 @@ The project can store student information, enter marks, calculate grades, and fi
 
 ## Testing
 
-The project was tested with different student details and marks. Input validation was also added for marks and student information.
+The project was tested with different student details and marks. Input validation was also added for marks and student information. Enter the marks between 0 and 100.
 
 ## Future Improvements
 
